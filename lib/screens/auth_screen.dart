@@ -1,9 +1,9 @@
 
-// Internal Lib
+// import for Internal Lib
 import 'dart:math';
 import 'package:flutter/material.dart';
 
-//My Files
+//import My Files
 import '.././widgets/auth_card.dart';
 
 
